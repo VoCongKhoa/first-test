@@ -5,6 +5,7 @@ public class History {
     private String chienle;
     private int id;
     private String name;
+    private String phone;
 
     public History() {
     }
@@ -30,4 +31,19 @@ public class History {
         this.name = name;
     }
 
+    public String getChienle() {
+        return chienle;
+    }
+
+    public void setChienle(String chienle) {
+        this.chienle = chienle;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
 }
