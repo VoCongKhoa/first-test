@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ChienLe Test
+=======
 this is test file
 NgocTTTB text-demo
 qhwueqbfqef
 
+>>>>>>> b55797d229d588da8aa429a5035f7063028f71b1

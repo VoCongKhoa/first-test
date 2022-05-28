@@ -1,6 +1,8 @@
 package api.models;
 
 public class History {
+
+    private String chienle;
     private int id;
     private String name;
 
@@ -27,4 +29,5 @@ public class History {
     public void setName(String name) {
         this.name = name;
     }
+
 }
