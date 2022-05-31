@@ -21,7 +21,6 @@ public class AccountRestController {
     public void demo(){
         System.out.println("demo-git");
         System.out.println("HauCBD");
-        System.out.println("HauCBD1234567");
-        System.out.println("C1121G1-SPRINT1");
+        System.out.println("ok");
     }
 }
