@@ -17,4 +17,8 @@ public class AccountRestController {
 
     @Autowired
     IRoleService iRoleService;
+
+    public void demo(){
+
+    }
 }
