@@ -1,7 +1,7 @@
 package api.models;
 
 public class History {
-    private String test;
+    private int test;
     private String chienle;
     private int id;
     private String name;
