@@ -19,6 +19,7 @@ public class AccountRestController {
     IRoleService iRoleService;
 
     public void demo(){
+        System.out.println("HauCBD");
 
     }
 }
